@@ -1,1 +1,1 @@
-Website link: https://mahir-portfolio-web.netlify.app/
+Website link: https://pranjalshrivastava-portfolio.netlify.app/
